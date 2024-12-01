@@ -1,6 +1,8 @@
-#include "PrintHello.hpp"
+#include "Gra.hpp"
 
 int main()
 {
-    printHello();
+    Gra gra;
+    gra.start();
+    return 0;
 }
