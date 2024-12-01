@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 
-// Metoda startu gry
+
 void Gra::start()
 {
     while (true)
